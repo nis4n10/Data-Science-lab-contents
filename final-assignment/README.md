@@ -1,6 +1,6 @@
-# TEAM MEMBERS:
-## Nishan K.C.: ACE081BCT046
-## Joshan Dhakal: ACE081BCT034
+### TEAM MEMBERS:
+##### Nishan K.C.: ACE081BCT046
+##### Joshan Dhakal: ACE081BCT034
 
 
 
@@ -65,6 +65,7 @@ Ever wondered why two laptops with similar-looking specs can have a €1,000 pri
 ## Key Finding
 
 RAM and CPU frequency are by far the strongest predictors of laptop price — more so than brand. If you're shopping for a laptop, focus on what's inside rather than the logo on the lid.
+
 
 
 
